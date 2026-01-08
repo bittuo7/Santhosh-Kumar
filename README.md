@@ -1,1 +1,10 @@
 # Santhosh-Kumar
+
+
+Hi there 👋 \
+💼 I am a Backend Engineer. \
+💻 I also do Competitive Programming. \
+💬 Ask me about Python, SQL, Webscraping, Databases, FastAPI and Django. \
+😄 Pronouns: He/Him \
+💬 Languages/Technologies: Python3 | Django | SQL | FastAPI | HTML | CSS | jQuery \
+⚡ Fun fact: Physics and Space fascinates me a lot. \
